@@ -1,0 +1,4 @@
+#!/bin/bash
+cd ~/linux
+sudo mount /dev/sdb1 /mnt/boot
+sudo mount /dev/sdb2 /mnt/root
