@@ -1,4 +1,2 @@
-# Hello-fydupre-world
-First repository
-This is just a test
-This is an edit made under the Readme Edit branch
+# Tools
+This contains a number of Bash Script files and other tools useful when developping for the Pi on a Ubuntu host
